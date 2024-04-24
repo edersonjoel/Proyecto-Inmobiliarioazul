@@ -1,0 +1,15 @@
+[2022-04-01 12:30:45] Conexión desde la dirección IP 192.168.1.1 
+
+[2022-04-01 12:31:20] Acceso a la página desde la dirección IP 10.0.0.1 
+
+[2022-04-01 12:32:05] Error de autenticación desde la dirección IP 192.168.1.2 
+
+[2022-04-01 12:33:10] Conexión exitosa desde la dirección IP 172.16.0.1 
+
+[2022-04-01 12:34:25] Conexión desde la dirección IP 300.400.500.600 (IP inválida) 
+
+[2022-04-01 12:35:00] Intento de acceso desde la dirección IP 192.168.300.1 (IP inválida) 
+
+[2022-04-01 12:36:15] Error de conexión desde la dirección IP 999.999.999.999 (IP inválida) 
+
+ 
